@@ -26,8 +26,8 @@ public class OCP1 {
         double peso = 10.0;
         double distancia = 50.0;
 
-        System.out.println("Costo Envío Estándar: " + envioEstandar.calcularCosto(peso, distancia));
-        System.out.println("Costo Envío Express: " + envioExpress.calcularCosto(peso, distancia));
+        System.out.println("Costo Envio Estandar: " + envioEstandar.calcularCosto(peso, distancia));
+        System.out.println("Costo Envio Express: " + envioExpress.calcularCosto(peso, distancia));
     }
 }
 
