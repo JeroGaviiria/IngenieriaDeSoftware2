@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="NetBeansProjects">
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/Celular.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/ComputadorSuspenderComando.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/Computador.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/CelularSuspenderComando.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/CelularEncenderComando.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/ComputadorApagarComando.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Adapter/AdapterNuevoSistemaPago.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/AbstractFactory/FabricaRegular.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Adapter/SistemaPago.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/AbstractFactory/EnvioExpress.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Builder/Hamburguesa.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Builder/PatronBuilder.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Builder/Builder.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/ComputadorReiniciarComando.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Adapter/NuevoSistemaPago.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/Comando.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/CelularApagarComando.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/ComputadorEncenderComando.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Singleton/Configuracion.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Singleton/Singleton.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/AbstractFactory/EnvioRegular.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/AbstractFactory/FabricaExpress.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/ControlRemoto.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/Command.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/AbstractFactory/Envio.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Adapter/Adapter.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/AbstractFactory/Fabrica.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/Command/CelularReiniciarComando.java</file>
+            <file>file:/C:/Users/jeron/OneDrive/Documentos/NetBeansProjects/Parcial3/src/AbstractFactory/Parcial3.java</file>
+        </group>
+    </open-files>
+</project-private>

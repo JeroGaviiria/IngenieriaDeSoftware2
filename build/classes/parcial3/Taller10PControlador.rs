@@ -1,0 +1,4 @@
+taller10controlador.Taller10PControlador$Entrada
+taller10controlador.Taller10PControlador$Usuario
+taller10controlador.Taller10PControlador$ControladorVenta
+taller10controlador.Taller10PControlador
